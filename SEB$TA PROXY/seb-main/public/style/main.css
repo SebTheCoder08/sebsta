@@ -2,11 +2,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap");
 
 
-element.style {
-    --background-primary: #dd6b6b;
+style attribute {
+    --background-primary: #7c2020;
     --navbar-color: #382323;
     --navbar-height: 60px;
-    --navbar-text-color: #dd6767;
+    --navbar-text-color: #ff0000;
     --input-text-color: #e0def4;
     --input-placeholder-color: white;
     --input-background-color: #542323;
@@ -16,6 +16,7 @@ element.style {
     --navbar-font: "Roboto";
     --navbar-logo-filter: invert(0%);
     --text-color-primary: #e0def4;
+}
 
 :root {
     --background-primary: #191724;
