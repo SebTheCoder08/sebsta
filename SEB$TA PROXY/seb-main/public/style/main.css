@@ -32,7 +32,6 @@ style attribute {
     --input-border-size: 1.3px;
     --navbar-logo-filter: none;
 }
-}
 
 ::-webkit-input-placeholder {
   text-align: center;
