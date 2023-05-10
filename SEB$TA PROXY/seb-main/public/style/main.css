@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap");
 
 :root {
-  --background-primary: #191724;
+  --background: linear-gradient(#141e30, #243b55);
   --navbar-color: #3a2323;
   --navbar-height: 33px;
   --navbar-text-color: #dd6767;
